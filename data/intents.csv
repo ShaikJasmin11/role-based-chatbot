@@ -1,0 +1,15 @@
+text,intent
+hello,greeting
+hi,greeting
+hey,greeting
+good morning,greeting
+bye,goodbye
+see you,goodbye
+thank you,thanks
+thanks,thanks
+teach me python,teaching
+explain loops,teaching
+workout for weight loss,fitness
+how to gain muscle,fitness
+leave policy question,hr
+company holidays,hr
