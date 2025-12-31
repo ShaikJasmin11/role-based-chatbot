@@ -1,6 +1,6 @@
-\# Role-Based Chatbot (RISE Internship Project)
+# Role-Based Chatbot (RISE Internship Project)
 
-\## Description
+## Description
 
 This project implements a role-based chatbot that changes its responses
 
@@ -10,40 +10,40 @@ The chatbot uses classical NLP techniques like TF-IDF and Naive Bayes
 
 for intent classification, without relying on external LLM APIs.
 
-\## Technologies Used
+## Technologies Used
 
-\- Python
+- Python
 
-\- NLTK
+- NLTK
 
-\- Scikit-learn
+- Scikit-learn
 
-\- Pandas
+- Pandas
 
-\## Features
+## Features
 
-\- Intent classification
+- Intent classification
 
-\- Role-based response generation
+- Role-based response generation
 
-\- Prompt engineering using templates
+- Prompt engineering using templates
 
-\- Console-based interaction
+- Console-based interaction
 
-\## How to Run
+## How to Run
 
-1\. Install dependencies:
+1. Install dependencies:
 
 pip install -r requirements.txt
 
-2\. Train the model:
+2. Train the model:
 
 python train\_model.py
 
-3\. Run the chatbot:
+3. Run the chatbot:
 
 python chatbot.py
 
-\## Internship Context
+## Internship Context
 
 Developed as part of the RISE Tamizhan Skills Internship – Generative AI & Prompt Engineering.
